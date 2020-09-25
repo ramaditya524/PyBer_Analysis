@@ -2,17 +2,24 @@
 
 ## Overview
 
-
+As part of PyBer, one of the projects that we have been working on is to tell a visual story from the data available. The objective is to make it easier for the end-user by presenting complex finding in an engaging way. This can help project planning, and help drive business decisions.
 
 ## Results
 
+As we can see from the summary dataframe below:
+* Drivers exceed rides in urban cities
+* Average fare is highest is rural cities($34) and almost $10 lower in urban cities
+* Average fare per driver is highest in rural cities($55) and is drastically lower in urban cities($16)
+
 ![Analysis_graphs](analysis/dataframe.PNG)
+
+As we can see from the graph below:
+* Total fare is highest in urban cities, most likely driven by the ride volume
+* There is a consistent spike in total fare across all cities on february 18th
 
 ![Analysis_graphs](analysis/pyber_fare_summary.png)
 
 
 ## Summary
 
-Overview of the analysis: Explain the purpose of the new analysis.
-Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
-Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+There are certain steps that can be taken to address the disparities among city types:
