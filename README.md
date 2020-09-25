@@ -23,3 +23,6 @@ As we can see from the graph below:
 ## Summary
 
 There are certain steps that can be taken to address the disparities among city types:
+* The rides:driver ratio is skewed unfavourably. We should either onboard lower number of drivers in certain urban cities
+* Alternatively, we should look to boost rides in certain cities by marketing campaings etc.
+* Find ways to increase average fare in certain urban cities to balance the differrence in average fares
