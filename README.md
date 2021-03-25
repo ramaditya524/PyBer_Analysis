@@ -6,7 +6,7 @@ As part of PyBer, one of the projects that we have been working on is to tell a 
 
 ## Results
 
-As we can see from the summary dataframe below:
+As we can see from the summary below:
 * Drivers exceed rides in urban cities
 * Average fare is highest is rural cities($34) and almost $10 lower in urban cities
 * Average fare per driver is highest in rural cities($55) and is drastically lower in urban cities($16)
