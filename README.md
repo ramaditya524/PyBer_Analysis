@@ -21,7 +21,7 @@ As we can see from the summary below:
 ### Jan-April city type wise summary
 As we can see from the graph below:
 * Total fare is highest in urban cities, most likely driven by the ride volume
-* There is a consistent spike in total fare across all cities on february 18th
+* There is a consistent spike in total fare across all cities on february 18th (Mostly driven by "The family day" holiday weekend in a Canadian context)
 
 ![Analysis_graphs](analysis/pyber_fare_summary.png)
 
