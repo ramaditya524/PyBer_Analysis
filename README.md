@@ -18,6 +18,7 @@ As we can see from the summary below:
 
 ![Analysis_graphs](analysis/dataframe.PNG)
 
+### Jan-April city type wise summary
 As we can see from the graph below:
 * Total fare is highest in urban cities, most likely driven by the ride volume
 * There is a consistent spike in total fare across all cities on february 18th
